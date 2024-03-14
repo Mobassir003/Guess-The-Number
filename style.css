@@ -1,0 +1,11 @@
+body{
+    background-color: slategray;
+    font-size: 30px;
+}
+#wrapper{
+    padding-top: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
